@@ -3,3 +3,4 @@ firebase-admin
 opencv-python
 numpy
 gunicorn
+rembg
