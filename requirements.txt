@@ -2,3 +2,4 @@ Flask
 firebase-admin
 opencv-python
 numpy
+guinicorn
